@@ -71,7 +71,7 @@ const data = [
   {
     name: "Dec",
     income: 3490,
-    // expense: 4300,
+    expense: 4300,
   },
 ];
 
